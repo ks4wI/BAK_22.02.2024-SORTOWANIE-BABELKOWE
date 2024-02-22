@@ -1,0 +1,14 @@
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\net6.0\sortowanie babelkowe.exe
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\net6.0\sortowanie babelkowe.deps.json
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\net6.0\sortowanie babelkowe.runtimeconfig.json
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\net6.0\sortowanie babelkowe.dll
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\net6.0\sortowanie babelkowe.pdb
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.AssemblyInfoInputs.cache
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.AssemblyInfo.cs
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.csproj.CoreCompileInputs.cache
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.dll
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\refint\sortowanie babelkowe.dll
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.pdb
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\sortowanie babelkowe.genruntimeconfig.cache
+C:\Users\ksawi\Desktop\c# zadania\bak\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\net6.0\ref\sortowanie babelkowe.dll
